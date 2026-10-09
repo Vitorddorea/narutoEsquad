@@ -10,5 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ConnectivityForecastApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(ConnectivityForecastApiApplication.class, args);
+        System.out.println("ola");
     }
 }
